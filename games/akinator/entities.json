@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Dog",
+    "category": "animal",
+    "traits": {
+      "is_animal": true,
+      "is_fictional": false,
+      "is_real": true,
+      "is_alive": true,
+      "is_large": false
+    }
+  },
+  {
+    "name": "Mickey Mouse",
+    "category": "fictional_character",
+    "traits": {
+      "is_animal": true,
+      "is_fictional": true,
+      "is_real": false,
+      "is_alive": false,
+      "is_large": false
+    }
+  }
+]

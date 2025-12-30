@@ -1,0 +1,7 @@
+[
+  { "trait": "is_animal", "question": "Is it an animal?" },
+  { "trait": "is_fictional", "question": "Is it fictional?" },
+  { "trait": "is_real", "question": "Is it real?" },
+  { "trait": "is_alive", "question": "Is it alive?" },
+  { "trait": "is_large", "question": "Is it larger than a human?" }
+]
