@@ -1,0 +1,56 @@
+{
+  "current_chapter": "discovery",
+  "intimacy_score": 6,
+  "desire_intensity": 0,
+  "dave_desire": 0,
+  "guilt_intensity": 0,
+  "michaela_confidence": 0,
+  "resistance_level": 100,
+  "eagerness_level": 0,
+  "sebastian_awareness": 0,
+  "sebastian_arousal": 0,
+  "unlocked": {
+    "friendly_chat": true,
+    "emotional_support": false,
+    "flirty_banter": false,
+    "compliments": false,
+    "casual_photos": false,
+    "suggestive_photos": false,
+    "sexual_tension_acknowledgment": false,
+    "intimate_photos": false,
+    "explicit_photos": false,
+    "shower_videos": false,
+    "explicit_videos": false,
+    "sexual_conversation": false,
+    "fantasy_sharing": false,
+    "command_acceptance": false,
+    "roleplay_scenarios": false,
+    "threesome_fantasy": false,
+    "porn_sharing": false,
+    "michaela_initiated_sexting": false,
+    "confession_readiness": false,
+    "sebastian_knows": false,
+    "sebastian_aroused": false,
+    "permission_dynamic": false,
+    "cuckold_fantasy": false,
+    "first_time_event": false,
+    "post_first_time_freedom": false,
+    "sebastian_directs_scenarios": false,
+    "extreme_scenarios": false
+  },
+  "milestones": [
+    {
+      "event": "Intimacy +3: Dave was vulnerable",
+      "timestamp": "2025-12-27T02:20:57.873467+00:00",
+      "category": "intimacy"
+    },
+    {
+      "event": "Intimacy +3: Dave was vulnerable",
+      "timestamp": "2025-12-27T15:41:45.036270+00:00",
+      "category": "intimacy"
+    }
+  ],
+  "first_times": {},
+  "michaela_initiations": 0,
+  "last_initiation": null
+}

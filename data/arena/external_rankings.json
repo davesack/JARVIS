@@ -1,0 +1,2548 @@
+{
+  "generated_at": "2025-12-19T16:09:04.487477",
+  "sources": [
+    {
+      "source": "celebbattles",
+      "tier": "A",
+      "scraped_at": "2025-12-19T16:09:03.781315",
+      "entries": [],
+      "error": "'str' object has no attribute 'get'"
+    },
+    {
+      "source": "celeb_battle_league",
+      "tier": "A",
+      "scraped_at": "2025-12-19T16:09:03.791847",
+      "entries": [
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        }
+      ],
+      "error": null
+    },
+    {
+      "source": "celeb_economy",
+      "tier": "B",
+      "scraped_at": "2025-12-19T16:09:03.791847",
+      "entries": [
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        },
+        {
+          "name": "",
+          "rank": null,
+          "score": null,
+          "wins": null,
+          "extra": {}
+        }
+      ],
+      "error": null
+    },
+    {
+      "source": "babepedia",
+      "tier": "B",
+      "scraped_at": "2025-12-19T16:09:03.791847",
+      "entries": [],
+      "error": "403, message='Forbidden', url=URL('https://www.babepedia.com/top100')"
+    },
+    {
+      "source": "boobpedia",
+      "tier": "B",
+      "scraped_at": "2025-12-19T16:09:03.791847",
+      "entries": [],
+      "error": "404, message='Not Found', url=URL('https://www.boobpedia.com/top100')"
+    }
+  ]
+}

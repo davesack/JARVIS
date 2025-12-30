@@ -1,0 +1,90 @@
+{
+  "123456789": {
+    "wordle": {
+      "last_played": "2025-12-14",
+      "guesses": 4,
+      "completed": true,
+      "failed": false,
+      "streak": 7
+    },
+    "absurdle": {
+      "last_played": "2025-12-14",
+      "completed": true
+    }
+  },
+  "688826143490572344": {
+    "wordle": {
+      "guesses": [
+        {
+          "guess": "raise",
+          "score": [
+            "\ud83d\udfe8",
+            "\u2b1b",
+            "\u2b1b",
+            "\u2b1b",
+            "\ud83d\udfe8"
+          ]
+        },
+        {
+          "guess": "mount",
+          "score": [
+            "\u2b1b",
+            "\ud83d\udfe9",
+            "\u2b1b",
+            "\u2b1b",
+            "\u2b1b"
+          ]
+        },
+        {
+          "guess": "loser",
+          "score": [
+            "\ud83d\udfe8",
+            "\ud83d\udfe9",
+            "\u2b1b",
+            "\ud83d\udfe8",
+            "\ud83d\udfe8"
+          ]
+        },
+        {
+          "guess": "vorel",
+          "score": [
+            "\u2b1b",
+            "\ud83d\udfe9",
+            "\ud83d\udfe9",
+            "\ud83d\udfe8",
+            "\ud83d\udfe9"
+          ]
+        },
+        {
+          "guess": "lower",
+          "score": [
+            "\ud83d\udfe8",
+            "\ud83d\udfe9",
+            "\ud83d\udfe8",
+            "\ud83d\udfe8",
+            "\ud83d\udfe8"
+          ]
+        },
+        {
+          "guess": "hover",
+          "score": [
+            "\u2b1b",
+            "\u2b1b",
+            "\u2b1b",
+            "\u2b1b",
+            "\u2b1b"
+          ]
+        }
+      ],
+      "completed": true,
+      "success": false,
+      "letter_status": {
+        "h": "absent",
+        "o": "absent",
+        "v": "absent",
+        "e": "absent",
+        "r": "absent"
+      }
+    }
+  }
+}

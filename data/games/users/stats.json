@@ -1,0 +1,9 @@
+{
+  "1234567890": {
+    "wordle_wins": 3,
+    "wordle_streak": 5,
+    "absurdle_wins": 1,
+    "scramble_solves": 12,
+    "daily_games_played": 42
+  }
+}

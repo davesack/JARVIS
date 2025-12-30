@@ -1,0 +1,19 @@
+{
+  "users": {
+    "688826143490572344": {
+      "counting_numbers": 1,
+      "alphabet_words": 1,
+      "word_chain_words": 1
+    },
+    "945480805361262612": {
+      "counting_numbers": 55,
+      "word_chain_words": 7,
+      "alphabet_words": 2
+    },
+    "945675644551958549": {
+      "word_chain_words": 7,
+      "alphabet_words": 3,
+      "counting_numbers": 55
+    }
+  }
+}

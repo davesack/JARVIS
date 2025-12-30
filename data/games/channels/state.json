@@ -1,0 +1,18 @@
+{
+  "1449982402293141604": {
+    "type": "counting",
+    "current": 2687,
+    "last_user": "945675644551958549"
+  },
+  "1449982775489728647": {
+    "type": "alphabet",
+    "current": "g",
+    "last_user": "945675644551958549"
+  },
+  "1449982883036135505": {
+    "type": "word_chain",
+    "last_letter": "p",
+    "last_user": "945675644551958549",
+    "last_word": "yap"
+  }
+}

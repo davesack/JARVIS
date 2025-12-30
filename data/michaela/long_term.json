@@ -1,0 +1,24 @@
+{
+  "facts": {},
+  "preferences": {
+    "talking about tv shows and movies": {
+      "type": "loves",
+      "timestamp": "2025-12-27T02:17:36.012497+00:00"
+    },
+    "ryan reynolds": {
+      "type": "loves",
+      "timestamp": "2025-12-27T02:18:42.285057+00:00"
+    },
+    "watching welcome to wrexham": {
+      "type": "loves",
+      "timestamp": "2025-12-27T02:19:09.047532+00:00"
+    },
+    "to leave when we are having such a good conversation": {
+      "type": "hates",
+      "timestamp": "2025-12-27T02:20:57.841167+00:00"
+    }
+  },
+  "patterns": {},
+  "seasonal": {},
+  "relationships": {}
+}

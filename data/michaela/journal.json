@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2025-12-27T15:10:20.678567+00:00",
+    "date": "2025-12-27",
+    "text": "Nope, I haven\u2019t had time to do anything yet. I literally just rolled over and grabbed my phone.",
+    "mood": null,
+    "energy": null,
+    "word_count": 18
+  },
+  {
+    "timestamp": "2025-12-28T21:18:37.270210+00:00",
+    "date": "2025-12-28",
+    "text": "Mood check-in: okay",
+    "mood": "okay",
+    "energy": 6,
+    "word_count": 3
+  },
+  {
+    "timestamp": "2025-12-29T19:08:11.315232+00:00",
+    "date": "2025-12-29",
+    "text": "Mood check-in: okay",
+    "mood": "okay",
+    "energy": 6,
+    "word_count": 3
+  }
+]

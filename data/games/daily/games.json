@@ -1,0 +1,29 @@
+{
+  "wordle": {
+    "enabled": true,
+    "daily": true,
+    "supports_solo": true,
+    "threaded": true,
+    "word_source": "wordle_daily",
+    "reveal_solution_next_day": true,
+    "track_streaks": true
+  },
+  "absurdle": {
+    "enabled": true,
+    "daily": true,
+    "supports_solo": false,
+    "threaded": true,
+    "word_source": "absurdle",
+    "reveal_solution_next_day": true,
+    "track_streaks": true
+  },
+  "scramble": {
+    "enabled": true,
+    "daily": true,
+    "supports_solo": true,
+    "threaded": true,
+    "word_source": "scramble",
+    "reveal_solution_next_day": true,
+    "track_streaks": true
+  }
+}

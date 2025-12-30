@@ -1,0 +1,28 @@
+{
+  "wordle": {
+    "winner": 1234567890,
+    "solved": {
+      "1234567890": {
+        "attempts": 3,
+        "completed_at": "14:02"
+      },
+      "5555555555": {
+        "attempts": 5,
+        "completed_at": "17:41"
+      }
+    },
+    "failed": {
+      "9999999999": {
+        "attempts": 6
+      }
+    }
+  },
+  "absurdle": {
+    "winner": null,
+    "solved": {
+      "2222222222": {
+        "attempts": 19
+      }
+    }
+  }
+}

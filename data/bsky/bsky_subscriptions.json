@@ -1,0 +1,29 @@
+{
+  "guild_id": 944107844205154355,
+  "parent_channel_id": 111111111111111111,
+  "subscriptions": [
+    {
+      "handle": "hbb06.bsky.social",
+      "thread_id": 1454983697236234408,
+      "interval_minutes": null,
+      "next_check_ts": 1767054029.456979
+    },
+    {
+      "handle": "mrandmrsreynolds.bsky.social",
+      "thread_id": 1307746325445742632,
+      "interval_minutes": 5,
+      "next_check_ts": 1767054029.456979
+    },
+    {
+      "handle": "myaustinwhite.bsky.social",
+      "thread_id": 1454994014456778886,
+      "interval_minutes": 5,
+      "next_check_ts": 1767054029.456979
+    }
+  ],
+  "slug_map": {
+    "hbb06.bsky.social": "h",
+    "mrandmrsreynolds.bsky.social": "mrs-reynolds",
+    "myaustinwhite.bsky.social": "austin-white"
+  }
+}

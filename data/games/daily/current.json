@@ -1,0 +1,63 @@
+{
+  "date": "2025-12-29",
+  "day_index": 980,
+  "games": {
+    "wordle": {
+      "seed": "merge",
+      "seed_id": "wordle_980",
+      "first_solve_user": null
+    },
+    "scramble": {
+      "seed": "excessing",
+      "seed_id": "scramble_980",
+      "first_solve_user": null
+    },
+    "absurdle": {
+      "seed": "absurdle_pool_v1",
+      "seed_id": "absurdle_980",
+      "first_solve_user": null
+    },
+    "betweenle": {
+      "seed": "bubba",
+      "seed_id": "betweenle_980",
+      "first_solve_user": null
+    },
+    "dordle": {
+      "seed": [
+        "souse",
+        "arose"
+      ],
+      "seed_id": "dordle_980",
+      "first_solve_user": null
+    },
+    "quordle": {
+      "seed": [
+        "cooch",
+        "solum",
+        "splat",
+        "scary"
+      ],
+      "seed_id": "quordle_980",
+      "first_solve_user": null
+    },
+    "octordle": {
+      "seed": [
+        "styli",
+        "these",
+        "sunup",
+        "polio",
+        "maned",
+        "daffy",
+        "bride",
+        "crime"
+      ],
+      "seed_id": "octordle_980",
+      "first_solve_user": null
+    },
+    "wordle_sequence": {
+      "seed": "swath,clown,feted,theta,skate,beano,ohhhh,dumpy",
+      "seed_id": "wordle_sequence_980",
+      "first_solve_user": null
+    }
+  }
+}

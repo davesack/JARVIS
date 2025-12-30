@@ -1,0 +1,17 @@
+{
+  "date": "2025-12-15",
+  "games": {
+    "wordle": {
+      "word": "crane",
+      "length": 5
+    },
+    "absurdle": {
+      "seed_pool": "absurdle",
+      "length": 5
+    },
+    "scramble": {
+      "word": "misdirection",
+      "scrambled": "tdisrmiecnoit"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "123456789": {
+    "subscribed_games": ["wordle", "scramble", "absurdle"],
+    "thread_ids": {
+      "wordle": "123-thread-id",
+      "scramble": "456-thread-id"
+    }
+  }
+}
